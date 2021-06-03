@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of sins highly useful to self-acquaintance, experimental prayer; and above all to a suitable preparation, for a worthy partaking of the supper of the Lord. With a preface exciting to an examination of our selves, and shewing the use and benefit of all these. By John Woodhouse.</title>
+            <author>Woodhouse, John, d. 1700.</author>
+         </titleStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66977</idno><idno type="EEBO-CITATION">99831081</idno>
+  <idno type="VID">35543</idno>
+  <idno type="EEBO-PROQUEST">2240931118</idno>
+  
+            <idno type="STC">Wing W3461A</idno>
+            <idno type="STC">ESTC R219625</idno>
+            <idno type="PROQUEST">99831081</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831081e"/>
+            <note>(EEBO-TCP ; phase 2, no. A66977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2087:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of sins highly useful to self-acquaintance, experimental prayer; and above all to a suitable preparation, for a worthy partaking of the supper of the Lord. With a preface exciting to an examination of our selves, and shewing the use and benefit of all these. By John Woodhouse.</title>
+                  <author>Woodhouse, John, d. 1700.</author>
+               </titleStmt>
+               <extent>[16], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Astwood, and are to be sold by John Lawrence, at the Angel in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy cropped at head and tightly bound.</note>
+                  <note>Reproduction of the original in the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+               <term type="topical_term">Christian literature --  Early works to 1800.</term>
+               <term type="topical_term">Sin --  Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35543:1"/>
+            <p>A Catalogue of Sins: Highly Useful to Self-Acquaintance, Experimental Prayer; And above all To a Suitable Preparation, for a Worthy Partaking of THE Supper of the LORD.</p>
+            <p>WITH A <hi>Preface</hi> exciting to an Examination of our Selves, and shewing the Use and Benefit of all these.</p>
+            <p>By <hi>Iohn Woodhouse.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Iohn Astwood,</hi> and are to be, Sold by <hi>Iohn Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultrey.</hi> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35543:2"/>
+            <pb facs="tcp:35543:2"/>
+            <head>To that Part of Christ's Flock, to which I am more Espe<g ref="char:EOLhyphen"/>cially related: Meeting at Little St. <hi>Helen</hi>'s in <hi>Bishops<g ref="char:EOLhyphen"/>gate-street, London.</hi>
+            </head>
+            <opener>
+               <salute>My dearly Beloved in our dear Lord,</salute>
+            </opener>
+            <p>
+               <hi>SInce you have Called me (how Un<g ref="char:EOLhyphen"/>worthy soever) to undertake the Pastoral Care of your Souls, faith<g ref="char:EOLhyphen"/>fulness to my Lord and You hath Enga<g ref="char:EOLhyphen"/>ged me to Endeavour the Service of you, as in other Pastoral Cases, so also in that of the due Celebration of the</hi> Sup<g ref="char:EOLhyphen"/>per of our Lord.</p>
+            <p>
+               <hi>And as I have oft Recommended to you</hi> A Catalogue of Sins, <hi>as highly Conducive hereto, so having found many of you destitute of such as are publish<g ref="char:EOLhyphen"/>ed,</hi>
+               <pb facs="tcp:35543:3"/>
+               <pb facs="tcp:35543:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35543:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35543:4"/>
+               <pb facs="tcp:35543:5"/>
+               <hi>and of Leisure to Transcribe this I ha<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for you, I was willing to put it (<gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Easily as I could) into your Hands.</hi>
+            </p>
+            <p>
+               <hi>The Unanimity of your Call to me t<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> fix amongst you: Your kind Acceptance of my poor Labours, Adherence to, and peculiar Affection for me; Your p<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and exemplary Piety, which manifests i<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> self in your Stedfastness in the Tru<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Day, (in a Giddy Season) to<g ref="char:EOLhyphen"/>gether with the Genuine Effects of it; your Diffusive and Inexhausted Charity upon all occurring Occasions, give me Assurance of your kind Acceptance an<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> regular Improvement of it, to a Heart<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Acquaintance and Holy Communion which is hereby Mainly designed, and Earnestly desired by</hi>
+            </p>
+            <closer>
+               <signed>Your Fervent Lover,<lb/> tho' Unworthy Pastor,<lb/>
+                  <hi>Iohn Woodhouse</hi>
+               </signed>
+               <dateline>
+                  <hi>Ʋpper-Moorfields,</hi>
+                  <lb/>
+                  <date>Dec. 20. 1698.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:35543:5"/>
+            <head>THE PREFACE.</head>
+            <p>AS our Admission to the Lord's-Table, is a Priviledge of Unspeakable Be<g ref="char:EOLhyphen"/>nefit to such as prepare to meet their God, so our coming Unwor<g ref="char:EOLhyphen"/>thily, exposeth us to the Just Indignation of Heaven, and not only adds to our <hi>Guilt,</hi> but makes us <hi>Guilty of the Blood of Christ,</hi> which is the Only Attonement for all our Guilt.</p>
+            <p>How miserable is that Man, who en<g ref="char:EOLhyphen"/>creases his <hi>Guilt,</hi> when he should receive his <hi>Pardon!</hi> How lamentable is his Case, to whom the <hi>Cup of Consolation</hi> becomes <hi>a Cup of Trembling</hi> and <hi>Astonishment!</hi> The way to pre<g ref="char:EOLhyphen"/>vent this, is to Examine our selves, as the Apostle commands us; <hi>Let a Man examine himself, and so let him eat;</hi> 1 Cor. 11. 28.</p>
+            <p>Great are the Benefits of Self-Reflection, it will lead us to the Knowledge of our selves, of our Sins, of our Graces, and of our De<g ref="char:EOLhyphen"/>fects.
+<pb facs="tcp:35543:6"/> This is the certain way to an Esta<g ref="char:EOLhyphen"/>blished Peace, and Well-grounded Comfort; Such as live in the Neglect of this Impor<g ref="char:EOLhyphen"/>tant Duty, are great Srangers to themselves, great Strangers to God and Jesus Christ.</p>
+            <p>For the Right Performance of this Duty of Self-Examination, take these general Di<g ref="char:EOLhyphen"/>rections.</p>
+            <p n="1">1. Set some Time apart for it, the Week, or Day, before you come to this Holy Sup<g ref="char:EOLhyphen"/>per. Apply such a part of Time to this so<g ref="char:EOLhyphen"/>lemn Work, and let nothing divert thee The World will be apt to break in upon thee, and disturb the most fixed Intention of the Mind. Bid it stay behind, (as <hi>Abraham</hi> di<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Servants and the Asses) whil'st thou ar<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> going to the Mount, to converse with God and thy self. Take the most convenient Season when thy Mind is in the best Frame, and in the the greatest Tranquility.</p>
+            <p n="2">2. Retire into some Secret Place, where thou may'st more freely, and unobservedly Commune with thy own Heart. Let no Eye see thee, but his alone, to whom thou approvest thy self, and from whose Favour thou expectest an Open Reward of thy most Secret Duties.</p>
+            <p n="3">3. Call in the Assistances of the Spirit of God, without whom all we do is in vain. Say with <hi>David,</hi> Psalm 119. 23, 24. <hi>Search me, O God, and know my Heart, try me, and know my</hi>
+               <pb facs="tcp:35543:6"/>
+               <hi>Thoughts; and see if there be any wicked way in me, and lead me in the way everlasting.</hi>
+            </p>
+            <p n="4">4. Be very Solemn and Particular in this Work. Rest not in meer Generals; <hi>In Ʋni<g ref="char:EOLhyphen"/>versalibus latet Dolus;</hi> Universals are deceit<g ref="char:EOLhyphen"/>ful. Some People's Confessions are like <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar</hi>'s Dream, they'll acknowledge in the General they are Sinners, but when you come to Particulars, <hi>The thing is gone from them,</hi> Dan. 2. 8.</p>
+            <p n="5">5. Be willing to know the worst of thy self. Remember, that when <hi>All the Ways of a Man are clean in his own Eyes, the Lord weigh<g ref="char:EOLhyphen"/>eth the Spirits,</hi> Prov. 16. 2. Expose thy Face to the Glass of God's Word, and care<g ref="char:EOLhyphen"/>fully Observe all the Spots and Blemishes of it.</p>
+            <p n="6">6. Set thy self as before the Judgment Seat of God. The Judgment of Conscience is a Prelude of the last Judgment. Every Man has a Tribunal in his own Breast, which hath Authority of passing Sentence upon him. The Determinations of a well informed Con<g ref="char:EOLhyphen"/>science, will be ratified by the Supream and Unerring Judge, 1 <hi>Ioh. 3. 20. If our Heart condemn us, God is greater than our heart, and knoweth all things.</hi>
+            </p>
+            <p n="7">7. Pass an impartial Judgment on thy self. Let not <hi>Self-abhorrence</hi> make thee too <hi>Severe</hi> in thy Censure, or <hi>Self-love</hi> too <hi>favourable.</hi> Do not side with Satan to over-look the good
+<pb facs="tcp:35543:7"/> that is in thee, do not take part with the Flesh, to over-look the Evil that is in thee. The Word of God is the Measure of Judgment, make that thy Rule, and thou can'st not miss.</p>
+            <p>But to be more particular, take these fol<g ref="char:EOLhyphen"/>lowing Directions.</p>
+            <p n="1">I. Examine thy State, whether thou art in a Regenerate, or in an Unregenerate Condi<g ref="char:EOLhyphen"/>tion; a Child of God, or of the Devil.</p>
+            <p>
+               <hi>If a Child of God,</hi> thou dost resemble God, hast received the <hi>Spirit of Adoption, and cryest Abba, Father,</hi> Gal. 4. 5, 6. <hi>Thou lovest the Brethren, yea, the Brotherhood;</hi> 1 Pet. 2. 17. Thou lovest them because they are Brethren, born of God, 1 <hi>Ioh.</hi> 3. 14.</p>
+            <p>The Lord's Supper is the Bread of Chil<g ref="char:EOLhyphen"/>dren, designed for 'em, and blessed to 'em, for their Spiritual Growth and Nourish<g ref="char:EOLhyphen"/>ment,</p>
+            <p>Examine thy self, art thou in Christ, a Believer, or an Unbeliever; 2 <hi>Cor.</hi> 13. 5.</p>
+            <p>
+               <hi>If a Believer,</hi> the Lord Jesus is precious to thee, 1 <hi>Pet. 2. 7. To you that believe, he is preci<g ref="char:EOLhyphen"/>ous.</hi> If a Believer, <hi>Faith worketh by Love,</hi> Gal. 5. 6. thou dost evidence <hi>thy Faith by Works</hi> of Repentance, Mortification, Righteousness and Charity, <hi>Iam.</hi> 2. 14, 15. <hi>If in Christ,</hi> thou hast received the <hi>Spirit of Christ,</hi> Rom. 8. 9. thou art <hi>a New Creature, 2 Cor. 5. 17. Thou walkest</hi>
+               <pb facs="tcp:35543:7"/>
+               <hi>not after the Flesh, but afer the Spirit;</hi> Rom. 8. 1. <hi>Thou hast begun to crucifie the Flesh, with the Af<g ref="char:EOLhyphen"/>fections and Lusts thereof,</hi> Gal. 5. 24. thou <hi>livest upon him, and unto him,</hi> Gal. 2. 20. Phil. 1. 21. <hi>Thou art willing to suffer the loss of all things, that thou may'st win Christ, and be found in his Righteousness,</hi> Phil. 3. 7, 8, 9.</p>
+            <p n="2">II. Examine thy Graces, look into thy Knowledge, Faith, Repentance, Love, Fear, Hope, Humility, Patience, <hi>&amp;c.</hi>
+            </p>
+            <p>Examine <hi>First,</hi> The Truth of them, whe<g ref="char:EOLhyphen"/>ther thou hast the Reality, and not the meer Appearance of them. <hi>All is not Godl that glisters,</hi> all is not Grace that appears to be so. What has not the Stamp of Heaven upon it, is false and counterfeit, and cannot bear the Refiners Fire, the strict Tryal of the Sanctuary.</p>
+            <p>
+               <hi>If thy Grace be true and saving,</hi> Christ is the Spring and Center of it, it flows from and runs to him, who is made of God <hi>Wisdom, Righ<g ref="char:EOLhyphen"/>teousness, Sanctification and Redemption, unto us.</hi> True Grace is fed and nourish'd by the Word of God; all New born Babes do as naturally <hi>Desire the sincere Milk of the Word,</hi> as the Infant does the Breast, 1 <hi>Pet.</hi> 2. 2. There is a Rab<g ref="char:EOLhyphen"/>binical Tradition, that when the Queen of <hi>Sheba</hi> came to try the Wisdom of <hi>Solomon,</hi> she presented him with Artificial Bees, which mov'd in an Undistinguishable Imitation of the Natural, with these she intermixes some liv<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:35543:8"/> Bees, and desires <hi>Solomon</hi> to distinguish the one from the other; he calls for Honey, and sets it on a Table, the living Bees present<g ref="char:EOLhyphen"/>ly discovered themselves by coming to the Ho<g ref="char:EOLhyphen"/>ney, which is their Natural Food. It is even so with Living Grace, the Word of God is as the Honey and the Honey-Comb unto it, it feeds upon and delights in it. True Grace is active in the Soul, it puts forth it self in Ordinances and Providences.</p>
+            <p>Examine <hi>Secondly,</hi> The Strength of thy Grace. Ordinances are Spiritual Food, and if our Souls be not under some prevailing In<g ref="char:EOLhyphen"/>dispositions, will nourish and strengthen us. <hi>Do not my words do good to him that walketh up<g ref="char:EOLhyphen"/>rightly?</hi> Mic. 2. 7. If our Graces be strong, we have <hi>Senses exercised to discern both Good and Evil,</hi> Heb. 5. 14. We can live upon a bare Promise, and rest our Souls upon the Power and Faithfulness of God, <hi>Rom.</hi> 4. 20, 21. We have <hi>Overcome the Wicked one,</hi> and are Victo<g ref="char:EOLhyphen"/>rious in Temptations, 1 <hi>Iohn</hi> 2. 14. We re<g ref="char:EOLhyphen"/>joyce in the Gifts and Graces of others, tho' they outshine and diminish us, <hi>Ioh.</hi> 3. 29, 30.</p>
+            <p>If Grace be strong, there is an Evenness in our Spirit and Way. The weak Christian is scarce a Day in one Frame, he is this Hour ele<g ref="char:EOLhyphen"/>vated with Flights of Affectionate Raptures, the next Hour sunk into Flatness and Despon<g ref="char:EOLhyphen"/>dencies; but as Graces grow stronger, he is
+<pb facs="tcp:35543:8"/> more steady, uniform and solid in his Devo<g ref="char:EOLhyphen"/>tions.</p>
+            <p>His Conversation and Way is more regular and even, he is not subject to such Slips and Falls as the weak Christian is, he has <hi>great Peace, and nothing offends him,</hi> Psalm 119. 169. When the Weak are apt to stumble at eve<g ref="char:EOLhyphen"/>ry Rock of Offence, he not only gets over Stumbling-Blocks, but improves them as Helps in his Way.</p>
+            <p>Examine <hi>Thirdly,</hi> The Usefulness of thy Grace: Dost thou glorifie God with it? This is the great End for which it is given us. All the Talents of our Great Lord, must be improv'd for the Honour and Service of the Owner. We are <hi>Stewards,</hi> and not <hi>Proprietors</hi> of the manifold Gifts of God, and must be accountable for the Trust committed to us. Grace is given us, not only for the saving of our own Souls, but for the Advancement of Christ's Kingdom, and the Exaltation of his Name. So far as we do not honour God with our Grace, so far <hi>we receive the Grace of God in vain.</hi>
+            </p>
+            <p>As the <hi>Doctrine</hi> of Grace may be <hi>wholly</hi> received in vain, so may the <hi>Principle in part</hi> be received in vain, when it is not actuated to such Degrees of Usefulness, as would re<g ref="char:EOLhyphen"/>commend Religion to the World. Who is the better for thy Graces? Doth the Fra<g ref="char:EOLhyphen"/>grancy of thy Box of Ointment sill the whole
+<pb facs="tcp:35543:9"/> House? Doth thy Light so shine before Men, as to attract the Eyes of those that sit in Darkness, to behold the Luster of it? Is thy Fruit a Pregnant Seed, which is productive of a Blessed Increase? <hi>The Fruit of the Righteous is a Tree of Life, and he that winneth Souls is wise,</hi> Prov. 11. 30.</p>
+            <p>A Conversation expressive of the Grace of God, has a great Tendency to remove Men's Prejudices against Religion, and to convince them of its Divine Original, Heavenly De<g ref="char:EOLhyphen"/>sign, and Efficacious Power.</p>
+            <p n="3">III. Examine thy Corruptions; know the Plague of thine own Heart. Ask thy Con<g ref="char:EOLhyphen"/>science, <hi>What have I done?</hi> And that thou may'st profitably perform this Work, I would recommend to thee the following <hi>Catalogue of Sins,</hi> drawn up some Years agoe for Private Use, (mostly out of Bishop <hi>Wilkins</hi>'s Gift of Prayer, Mr. <hi>Byfield</hi>'s, and Mr. <hi>Ambrose</hi>'s Cata<g ref="char:EOLhyphen"/>logue of Sins) and now made Publick for thy sake, hoping it may be helpful to thee in the great Duty of <hi>Self-Examination,</hi> as it has been to the Composer and others; which that it may be, take these following Di<g ref="char:EOLhyphen"/>rections.</p>
+            <p n="1">1. Read it over with Deliberation, Atten<g ref="char:EOLhyphen"/>tion and Self-Reflection, and if thou wilt attend to the Dictates of Conscience, thou canst not but read thy own Charge.</p>
+            <p n="2">
+               <pb facs="tcp:35543:9"/>2. Mark in thy Catalogue, or write on any other Paper, those particular Sins, which thy Heart (in so solemn a way) smites thee for, and chargeth thee with. Keep this Pa<g ref="char:EOLhyphen"/>per on thy Table, that thou may'st often re<g ref="char:EOLhyphen"/>view it. Awaken and Rouse up thy Consci<g ref="char:EOLhyphen"/>ence against every Sin mentioned in it, not only at thy Approach to, but in, and after this Ordinance: Thy End in finding out Sin, is to do Execution upon it. There<g ref="char:EOLhyphen"/>fore,</p>
+            <p n="3">3. When thou hast found out thy Sin, con<g ref="char:EOLhyphen"/>sider the many Aggravations wherewith it is attended. Thou hast sinn'd against infinite Greatness and Goodness, against Light and Love, against Means and Mercies, against Vows and Promises, against Threatnings and Judgments, against Convictions, and Purposes of Amendment. All these, and many more, are great Aggravations of thy Guilt.</p>
+            <p n="4">4. Be deeply humbled before the Throne of Grace for all thine Iniquities: Get thy Heart affected with the Evil of Sin, as con<g ref="char:EOLhyphen"/>trary to the Unspotted Nature, Boundless Perfections, and Unerring Will of God, de<g ref="char:EOLhyphen"/>structive of our Present and Future Happi<g ref="char:EOLhyphen"/>ness, and the procuring Cause of all the Penal Evils of this Life, and of the most Exquisite and Endless Torments of <hi>Hell.</hi> Offer unto God the Sacrifice of a <hi>Broken Heart,</hi> and a <hi>Contrite Spirit,</hi> with a Humble Confession of
+<pb facs="tcp:35543:10"/> thine Iniquities: If we confess and forsake Sin, we shall find Mercy.</p>
+            <p n="5">5. Get the Blood of Christ apply'd to thy Soul, by a Lively and Active Faith; this is that <hi>Fountain opened,</hi> which can only <hi>wash</hi> thee <hi>from Sin and Ʋncleanness.</hi> Let not the Greatness nor Number of thy Sins discourage thee, for there's Vertue in the Blood of Christ to cleanse from Sin, yea, from <hi>all</hi> Iniquity. No<g ref="char:EOLhyphen"/>thing can hinder thy cleansing but Unbelief. There's more Vertue in the Blood of Christ to save, than can be in Sin to destroy. Our Sins are the Sins of Men, his Blood the Blood of God, <hi>Acts</hi> 20. 28. Thou canst not more affront Jesus Christ, than by limiting the Power of his Grace, and declining that Throne of Mercy, which only can relieve the most desperate Sinners. There remains no other Sacrifice for <hi>his</hi> Sin, who despises and neglects the great Propitiatory Sacrifice, made by the Death of Christ.</p>
+            <p n="6">6. Hunger and Thirst after the Righteous<g ref="char:EOLhyphen"/>ness of Christ, Come with great Expectation: Open thy Mouth wide, and it shall be fill'd. Ordinances are empty Things without Christ, it is he that nourishes the Soul to Eternal Life. Thou must come with an Appetite to this Royal Feast, and nothing will more en<g ref="char:EOLhyphen"/>crease it, than to eat our <hi>Passover</hi> with the <hi>Bitter Herbs</hi> of Penitential Sorrow.</p>
+            <p n="7">7. Renew thy Covenant with God, and
+<pb facs="tcp:35543:10"/> renounce every false Way. The Lord's-Supper is an Authentick Seal of the Cove<g ref="char:EOLhyphen"/>nant, in which God promises Grace, and we promise Obedience. The End of Exa<g ref="char:EOLhyphen"/>mination is Self-Condemnation and Refor<g ref="char:EOLhyphen"/>mation. Go forth then in the Strength of the Lord, and make mention of his Righte<g ref="char:EOLhyphen"/>ousness, even his Only.</p>
+            <p>And when all this is heartily and sincere<g ref="char:EOLhyphen"/>ly done, betake thy self, to Mr. <hi>Faldo</hi>'s Abridgment of Mr. <hi>Dykes</hi>'s <hi>Worthy Commu<g ref="char:EOLhyphen"/>nicant instructed;</hi> or such other Book or Books, as may be Useful to thee for this Great End: For I present thee not with this, to take thee off such Books, but to further thy Better Improvement of 'em.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_sins">
+            <pb facs="tcp:35543:11"/>
+            <pb n="1" facs="tcp:35543:11"/>
+            <head>A Catalogue of Sins.</head>
+            <div n="1" type="part">
+               <head>I. <hi>Of</hi> Original <hi>Sin.</hi>
+               </head>
+               <div type="section">
+                  <head>In General.</head>
+                  <p>
+                     <hi>ORiginal</hi> Pollution inherent in us, which depraves our Natures, and becomes the Fountain of all the Sins of the worst Men in the World.</p>
+                  <p>
+                     <hi>Inability</hi> to any Good, a Loathing of, an Aversion from, a Reluctance against Good.</p>
+                  <p>A Propension to, and Desire after <hi>Evil;</hi> which cannot be done away, 'till our Earthly Tabernacles are dissolved, <hi>Rom.</hi> 7. 15, 18, 19, 21, 23. <hi>Heb.</hi> 12. 1.</p>
+               </div>
+               <div type="section">
+                  <pb n="2" facs="tcp:35543:12"/>
+                  <head>In Particular.</head>
+                  <div n="1" type="subsection">
+                     <head>1. <hi>In our Inward Man.</hi>
+                     </head>
+                     <p>Hereby, Our</p>
+                     <p>
+                        <hi>Understandings</hi> are depraved with Vanity, Inconsiderateness, Rashness, Dark<g ref="char:EOLhyphen"/>ness, Prejudice, Contradictions against Flesh<g ref="char:EOLhyphen"/>displeasing Truths, <hi>Rom.</hi> 3. 11. 1. 21. 8. 5, 7. <hi>Gen.</hi> 6. 5. 2 <hi>Cor.</hi> 3. 5. <hi>Jer.</hi> 4. 24. 1 <hi>Cor.</hi> 2. 14. <hi>Ephes.</hi> 4. 18.</p>
+                     <p>
+                        <hi>Consciences</hi> senseless under Threats and Judgments, past feeling.</p>
+                     <p>
+                        <hi>Not</hi> accusing for Falls into Sin, not excu<g ref="char:EOLhyphen"/>sing when truly Penitent or Innocent, deaf to Holy Suggestions, <hi>Eph.</hi> 4. 19. 1 <hi>Tim.</hi> 4. 20. <hi>Tit.</hi> 1. 15. <hi>Rom.</hi> 2. 15.</p>
+                     <p>
+                        <hi>Hearts and Affections</hi> are full of Unsearchable Deceits, Evil Thoughts, Folly and Madness, in preferring perishing Content<g ref="char:EOLhyphen"/>ments, before Eternal Concernments.</p>
+                     <p>
+                        <hi>Not</hi> wrought upon by the most Lively Means of Grace, by Hopes or Fears, Threat<g ref="char:EOLhyphen"/>nings or Promises, Mercies or Judgments, quickly lose that Sense they have at any time got, and revolt from a good Frame.</p>
+                     <p>
+                        <hi>Affections</hi> set on wrong Objects, Inordinate and Excessive when set on right, <hi>Ier.</hi> 17. 9. <hi>Mat.</hi> 15. 19. <hi>Eccles.</hi> 9. 3. <hi>Gen.</hi> 6. 5.</p>
+                     <p>
+                        <hi>Wills</hi> have lost their first Spiritual Free<g ref="char:EOLhyphen"/>dom, become full of Enmity and Obstinacy
+<pb n="3" facs="tcp:35543:12"/> against Good. Free to Evil. <hi>Iohn</hi> 8. 24. 2 <hi>Pet.</hi> 2. 19. <hi>Psalm</hi> 50. 17.</p>
+                     <p>
+                        <hi>Memories</hi> forgetful of Good, but very Tenacious of Evil Matters, <hi>Heb.</hi> 2. 1.</p>
+                     <p>
+                        <hi>Not</hi> calling Truths seasonably to Mind, to quicken when Dull, or comfort when Sad.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>2. <hi>In our Outward Man.</hi>
+                     </head>
+                     <p>
+                        <hi>Which</hi> is now become Weak, Vile, Sub<g ref="char:EOLhyphen"/>ject to all manner of Infirmities, Diseases, and Sins: Our <hi>Members</hi> being Instruments of Un<g ref="char:EOLhyphen"/>righteousness. As,</p>
+                     <p>Our <hi>Eyes</hi> full of Adultery, Pride, En<g ref="char:EOLhyphen"/>vy, Scorn, 2 <hi>Pet.</hi> 2. 12.</p>
+                     <p>
+                        <hi>Ears</hi> deaf to good Suggestions, open and attentive to Vanities, Lies, Slanders, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Tongues</hi> Unruly, Unsavoury and Un<g ref="char:EOLhyphen"/>edifying in Discourse, <hi>Iames</hi> 3. 6, 8. <hi>Rom.</hi> 3. 13, 14, 15, 18.</p>
+                     <p>
+                        <hi>To All</hi> which add, that though the best of us are as bad by Nature as the worst of Men, there being no Sin committed by Men or Devils, but the Principles thereof are in our Nature; yet we are naturally apt, to have slight and trivial Thoughts of this Ori<g ref="char:EOLhyphen"/>ginal Corruption, that is thus abominable. It's oft <hi>confess'd,</hi> seldom <hi>bewail'd,</hi> as it is by St. <hi>Paul,</hi> Rom. 7. 14, 15, 16, 17, 24, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="4" facs="tcp:35543:13"/>
+               <head>II. Actual <hi>Sin.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>1. Against the <hi>First</hi> and <hi>Second</hi> Table of the Law.</head>
+                  <div type="subsection">
+                     <p>
+                        <hi>Against</hi> the <hi>First</hi> Table in General.</p>
+                     <p>Not loving the Lord our God with all our Heart, Soul, Strength, and Mind.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>In Particular.</head>
+                     <div n="1" type="commandment">
+                        <head>Against the First Commandment.</head>
+                        <p>By <hi>Atheisme,</hi> which sheweth it self, in denying the very Being of God.</p>
+                        <p>
+                           <hi>Customary</hi> living without a Sense of, Acquain<g ref="char:EOLhyphen"/>tance with, or Desires after God. Saying or thinking God sees not all things. That he cannot help his own. That it is no Profit to serve him.</p>
+                        <p>
+                           <hi>Having</hi> inwardly Murmurings against the Decrees, and Providences of God, towards our selves or others.</p>
+                        <p>
+                           <hi>Not</hi> worshipping him as God, and our God.</p>
+                        <p>
+                           <hi>Blasphemy,</hi> Reproaching God, Speak<g ref="char:EOLhyphen"/>ing Evil of him.</p>
+                        <p>
+                           <hi>Idolatry,</hi> Preferring any thing in our Love and Esteem, before the Lord: To please or keep it, rather than God. Giv<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:35543:13"/> his Worship to any other.</p>
+                        <p>
+                           <hi>Witchcraft,</hi> or contracting to serve the Devil, resorting to Witches, that have en<g ref="char:EOLhyphen"/>tred into such Contracts.</p>
+                        <p>
+                           <hi>Heresie,</hi> Obstinately maintaining Fun<g ref="char:EOLhyphen"/>damental Errors.</p>
+                        <p>
+                           <hi>Apostacy,</hi> Resolvedly departing from God, and his Ways.</p>
+                        <p>
+                           <hi>Hatred</hi> and Loathing, of the Blessed God and his good Ways.</p>
+                        <p>
+                           <hi>Ignorance</hi> of the Power, Justice, Mer<g ref="char:EOLhyphen"/>cy, Wisdom, and other Attributes of God.</p>
+                        <p>
+                           <hi>Of</hi> the Truths of God, little desiring the Knowledge of his Ways; hating him that instructs us.</p>
+                        <p>
+                           <hi>Suppressing</hi> and Smothering some Truths, in Favour of some Sin.</p>
+                        <p>
+                           <hi>Turning</hi> away our Eyes or Ears, from that Book or Instruction, which we fear may dis<g ref="char:EOLhyphen"/>cover what we do and love, to be sinful.</p>
+                        <p>
+                           <hi>Not</hi> living answerable to what we know.</p>
+                        <p>
+                           <hi>Not</hi> doing what we know to be our Duty.</p>
+                        <p>
+                           <hi>Not</hi> avoiding what we know to be sinful.</p>
+                        <p>
+                           <hi>Infidelity,</hi> Not Assenting to God's Law as Holy, Just, and Good: Not so firmly to believe his Attributes, as to have Affections suitable to them: As Love, Mercy, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Nor</hi> his Threats and Judgments, so as to be awakened at them; or his Promises, so as to be allured by them, from Sin to New<g ref="char:EOLhyphen"/>ness of Life.</p>
+                        <pb n="6" facs="tcp:35543:14"/>
+                        <p>
+                           <hi>Diffidence,</hi> or Distrusting God, not Ad<g ref="char:EOLhyphen"/>hering to him with all our Hearts.</p>
+                        <p>
+                           <hi>Not</hi> asking Counsel of him in Straits.</p>
+                        <p>
+                           <hi>Not</hi> casting our Burden upon him.</p>
+                        <p>
+                           <hi>Not</hi> trusting him in want of Outward Means.</p>
+                        <p>
+                           <hi>Full</hi> of Carking and Solicitous Thoughts.</p>
+                        <p>
+                           <hi>Trusting</hi> to Friends, Wealth, Wit, rather than to God, and when these fail, frowardly to desire Death, <hi>Job</hi> 7. 15.</p>
+                        <p>
+                           <hi>Want of Love to God,</hi> Giving more of our Affections to our selves, Pleasures, Ri<g ref="char:EOLhyphen"/>ches, Honours, Friends, than to the Blessed God.</p>
+                        <p>
+                           <hi>Suffering</hi> our Business, Entertainments, Want of Leasure, and such like poor Respects, to seduce our Affections from him, and to hinder our Comunion with him.</p>
+                        <p>
+                           <hi>Loosing</hi> our first Love, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Want of Zeal for God,</hi> Faintly pur<g ref="char:EOLhyphen"/>suing what may tend to the promoting of his Glory in the World, feebly opposing what may hinder his Praise.</p>
+                        <p>
+                           <hi>Not</hi> inwardly laying to Heart those Reign<g ref="char:EOLhyphen"/>ing Corruptions, either <hi>Publick</hi> in the <hi>Times,</hi> or <hi>Private</hi> in our own <hi>Souls,</hi> whereby God's Name has been, and is abused.</p>
+                        <p>
+                           <hi>Wronging</hi> good Causes, either by a Zeal<g ref="char:EOLhyphen"/>less Lukewarmness, or a Furious, Imprudent Zeal.</p>
+                        <pb n="7" facs="tcp:35543:14"/>
+                        <p>
+                           <hi>Want of Ioy in God,</hi> Not serving him with Gladness of Heart.</p>
+                        <p>
+                           <hi>Not</hi> reckoning his Service, Word, Ordinan<g ref="char:EOLhyphen"/>ces and Sabbaths, (in which we converse with him) a Delight.</p>
+                        <p>
+                           <hi>Counting</hi> his Ways grievous and burthen<g ref="char:EOLhyphen"/>some, having more Joy in any Company than in his.</p>
+                        <p>
+                           <hi>Unthankfulness</hi> for Mercies, not Ob<g ref="char:EOLhyphen"/>serving, Acknowledging, Recording or Ren<g ref="char:EOLhyphen"/>dering, according to his Tokens of Love to<g ref="char:EOLhyphen"/>wards us and ours, in Soul, Body, or Estate.</p>
+                        <p>
+                           <hi>Our</hi> Thankfulness at the Receipt <hi>of</hi> them, <hi>not</hi> proportionable to our Importunity <hi>for</hi> them, in our want of them.</p>
+                        <p>
+                           <hi>Growing</hi> worse by our Enjoyments.</p>
+                        <p>
+                           <hi>Impatience</hi> under the Crosses justly inflicted, and less than we diserve.</p>
+                        <p>
+                           <hi>Not</hi> Chearful under Sufferings.</p>
+                        <p>
+                           <hi>Apt</hi> to murmure and repine, to faint and despair, to seek help by unlawful Means.</p>
+                        <p>
+                           <hi>Disobedience,</hi> not absolutely Submit<g ref="char:EOLhyphen"/>ting our Wills in all things to the Will of God, to be in what Condition he pleases, to do what he will have us.</p>
+                        <p>
+                           <hi>Inconstant</hi> and Unstable in what we do.</p>
+                        <p>
+                           <hi>Apt</hi> to revolt and backslide upon every slight Temptation, to choose or refuse Duties, as they best comport wich our own Inclinations, Affections, and Interests.</p>
+                        <pb n="8" facs="tcp:35543:15"/>
+                        <p>
+                           <hi>Not</hi> Universal in all Times, Conditions, Re<g ref="char:EOLhyphen"/>lations, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Want of the Fear</hi> of that God, who is infinite in Power, Justice, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Growing</hi> secure and presumptious in a way of Sin, promising our selves Peace and Impunity, tho' we persevere in our Impie<g ref="char:EOLhyphen"/>ties.</p>
+                        <p>
+                           <hi>Apt</hi> to fear the Frowns of Men more than God.</p>
+                        <p>
+                           <hi>Choosing</hi> to commit some little Sin, rather than be reproach'd or suffer.</p>
+                        <p>
+                           <hi>Pride,</hi> High Looks, and Indignation of Spirit towards others.</p>
+                        <p>
+                           <hi>Fearlessness</hi> of a Fall in Prosperity.</p>
+                        <p>
+                           <hi>Secret</hi> lifting up of Heart, and glorying in Friends, Riches, Beauty, Grace or Gifts.</p>
+                        <p>
+                           <hi>High</hi> Thoughts of our selves, fretting at, or envying, the better Gifts and Respects of Others.</p>
+                        <p>
+                           <hi>Prying</hi> into God's Secrets.</p>
+                        <p>
+                           <hi>Glorying</hi> in any Sin.</p>
+                        <p>
+                           <hi>Not</hi> lying so low, as God's Greatness and our Vileness doth oblige us.</p>
+                        <p>
+                           <hi>Unmindful</hi> of God, not Thinking, Me<g ref="char:EOLhyphen"/>ditating, and highly Esteeming of God.</p>
+                        <p>
+                           <hi>Not</hi> choosing him for our Chief Good, and devoting our selves to his Service.</p>
+                     </div>
+                     <div n="2" type="commandment">
+                        <pb n="9" facs="tcp:35543:15"/>
+                        <head>Against the Second Comandment.</head>
+                        <p>
+                           <hi>Idol-worship,</hi> making an Image to re<g ref="char:EOLhyphen"/>present the Living God, and using Gestures of Reverence to such Images.</p>
+                        <p>
+                           <hi>Swearing</hi> by Idol-gods, being present at the Feasts and Service of the Idol: Worshipping God by an Image.</p>
+                        <p>
+                           <hi>Conceiving</hi> of God in the likeness of any thing Created, or forming any gross Con<g ref="char:EOLhyphen"/>ceptions of him.</p>
+                        <p>
+                           <hi>Worshipping</hi> feigned and false Gods.</p>
+                        <p>
+                           <hi>Forming</hi> carnal Imaginations of God, whilest worshipping of him.</p>
+                        <p>
+                           <hi>Superstition.</hi> Worshipping God in any other Way, and by any other Means than what he hath appointed in his Word.</p>
+                        <p>
+                           <hi>Will-worship.</hi> Devising of our own Wills, any Ordinances or Means of God's Worship. Worshipping for Custom, or be<g ref="char:EOLhyphen"/>cause our Fore-fathers did so, or because Men command us to do so.</p>
+                        <p>
+                           <hi>Private</hi> Persons administring in Sacred Or<g ref="char:EOLhyphen"/>dinances, urging the lesser, neglecting the greater things of the Law.</p>
+                        <p>
+                           <hi>Ʋrging</hi> Mens Traditions more than God's Institutions.</p>
+                        <p>
+                           <hi>Irreligion,</hi> Or not Worshipping at all.</p>
+                        <p>
+                           <hi>Not</hi> receiving Preachers, Discourageing
+<pb n="10" facs="tcp:35543:16"/> them, Alienating their just Maintenance, for<g ref="char:EOLhyphen"/>bidding them to Preach.</p>
+                        <p>
+                           <hi>Displeased</hi> with God's Institutions, disswa<g ref="char:EOLhyphen"/>ding Men from God's Worship, Hateing, Opposing, Persecuting and Slandering Men for serving God.</p>
+                        <p>
+                           <hi>Iniquities about our holy things,</hi> as to the <hi>Manner</hi> of Duties, Backwardness of Heart to 'em, Averseness from 'em, Unprepa<g ref="char:EOLhyphen"/>redness for 'em, Want of Care and Pains to get prepared.</p>
+                        <p>
+                           <hi>Distractions</hi> and Wandring of Heart from God in Duties. Flatness, Lukewarmness, and Unsensibleness of Heart under Ordinances.</p>
+                        <p>
+                           <hi>Formality,</hi> Contentedness, with the bare Do<g ref="char:EOLhyphen"/>ing of a Duty, without sensible Communion with God in it.</p>
+                        <p>
+                           <hi>Hypocrisie</hi> and dissembling with God, De<g ref="char:EOLhyphen"/>siring mainly to be approved of, and com<g ref="char:EOLhyphen"/>mended by Men.</p>
+                        <p>
+                           <hi>Grieving</hi> more when we please not Men, than when we please not God.</p>
+                        <p>
+                           <hi>Ʋnacquaintance</hi> with God in, and Weari<g ref="char:EOLhyphen"/>ness under Ordinances, and Rejoycing when they are over, Walking unsuitably after the Enjoyment of them.</p>
+                        <p>
+                           <hi>Not</hi> maintaining some Measure of a Duty-Frame from Duty to Duty.</p>
+                        <p>
+                           <hi>Not</hi> endeavouring with any Seriousness to be and do what we Hear we ought, Pray we may, and Vow we will both be and do.</p>
+                        <pb n="11" facs="tcp:35543:16"/>
+                        <p>
+                           <hi>Not</hi> Marking how God answers us, not Mourning over <hi>all</hi> these.</p>
+                        <p>
+                           <hi>Iniquities about our holy things</hi> in respect of the <hi>Means</hi> or Kinds of Worship: As,</p>
+                        <p>First, <hi>Prayer-Sins:</hi> As, Negligence in setting any Solemn Time apart, for our Secret Devotions.</p>
+                        <p>
+                           <hi>Omitting</hi> Publick, Family, or Closet-Prayer, upon Trivial Occasions, slight or pretended Business.</p>
+                        <p>
+                           <hi>Not</hi> being grieved when we so omit our Duties.</p>
+                        <p>
+                           <hi>Doing</hi> them rather to quiet an accusing Conscience, than out of Love to the Enjoy<g ref="char:EOLhyphen"/>ment of God in 'em, or to carry Impressions of God from them.</p>
+                        <p>
+                           <hi>Confessing</hi> Sin without Sorrow, Shame, or Hatred of it, hiding some Beloved Sin which we should confess.</p>
+                        <p>
+                           <hi>Not</hi> forsaking what we do confess; but confess what we commit, and commit what we confess.</p>
+                        <p>
+                           <hi>Petitioning</hi> things not according to the Will of God, but apt to Pray pas<g ref="char:EOLhyphen"/>sionately for what our Flesh craves.</p>
+                        <p>
+                           <hi>Not</hi> Praying with so much Faith and Fer<g ref="char:EOLhyphen"/>vency, as if we felt our Wants pinch us, or were perswaded that this Duty were an Ef<g ref="char:EOLhyphen"/>fectual Means to get our Wants supply'd.</p>
+                        <p>
+                           <hi>Not</hi> tenderly affectionate in forgiving o<g ref="char:EOLhyphen"/>thers,
+<pb n="12" facs="tcp:35543:17"/>
+                           <hi>or</hi> in our Intercessions for Others.</p>
+                        <p>
+                           <hi>In Thanksgiving,</hi> neither recording nor mentioning the Kindnesses of God, nor raised into Chearfulness, Love and Gratitude for 'em.</p>
+                        <p>Secondly, <hi>Hearing Sins:</hi> Neglect<g ref="char:EOLhyphen"/>ing Opportunities offered.</p>
+                        <p>
+                           <hi>Before;</hi> Not prepraring for, hungring af<g ref="char:EOLhyphen"/>ter, loving, believing and prizing it as the Word of Life.</p>
+                        <p>
+                           <hi>Bringing</hi> with us much Carnal Security, and hardness of Heart, without any desire to profit by it.</p>
+                        <p>
+                           <hi>Resolutions</hi> of Continuing in their former Courses, whatsoever can be said to the con<g ref="char:EOLhyphen"/>trary.</p>
+                        <p>
+                           <hi>Carrying</hi> with us Worldly Thoughts, Pre<g ref="char:EOLhyphen"/>judices against the Teacher, or some Truths he teacheth, going for Curiosity, not to Learn, but Censure, to please the Fancy, or pacifie Conscience, rather than to reform the Life.</p>
+                        <p>
+                           <hi>At.</hi> Inattention, Irreverence, Distraction, Unbelief, Misapplication, Obstinacy, Dull<g ref="char:EOLhyphen"/>ness, Weariness. Neither remembering, nor desiring to practice what we hear.</p>
+                        <p>Want of Meekness to receive the ingrafted Word, especially Reproofs.</p>
+                        <p>
+                           <hi>After.</hi> Not careful to fix it in our Hearts by Prayer, Meditation and Conference.</p>
+                        <p>
+                           <hi>Not</hi> living answerable to what we have heard, barren under all.</p>
+                        <pb n="13" facs="tcp:35543:17"/>
+                        <p>Thirdly, <hi>Sacrament Sins:</hi>
+                        </p>
+                        <p n="1">1. <hi>Baptismal,</hi> By Slighting and Re<g ref="char:EOLhyphen"/>nouncing that Covenant, by not setting our selves against the <hi>World,</hi> the <hi>Lusts</hi> of our <hi>Flesh,</hi> and the <hi>Devil,</hi> and not walking as those in the Bosom of the Church.</p>
+                        <p>
+                           <hi>By</hi> Delays in renewing this Covenant. Do<g ref="char:EOLhyphen"/>ing it Cursorily and Superficially, the Unstead<g ref="char:EOLhyphen"/>fastness of our Hearts in this Covenant.</p>
+                        <p n="2">2. <hi>Lord's Supper Sins:</hi> Not hun<g ref="char:EOLhyphen"/>gering after it, not partaking of it so fre<g ref="char:EOLhyphen"/>quently as our Necessities require, and Op<g ref="char:EOLhyphen"/>portunities are offered.</p>
+                        <p>
+                           <hi>Before,</hi> not setting some time apart for Preparation, and not setting seriously about the Work in that Time.</p>
+                        <p>
+                           <hi>Ʋnwilling</hi> to examine the secret Corners of our Hearts, to judge our selves for sin, to mourn over, purge out, and engage against those, Bo<g ref="char:EOLhyphen"/>som Sins, to which we are most inclined.</p>
+                        <p>
+                           <hi>Not</hi> stirring up in our selves Faith in, Love towards Jesus Christ; whereby we may renew the Conditions of that Covenant required on our Part.</p>
+                        <p>
+                           <hi>Not</hi> reconciling our selves to those we have trespassed against.</p>
+                        <p>
+                           <hi>At.</hi> How little affected with those Sins which Crucify'd the Lord Christ? How idle is Faith, which should lay hold on Christ?</p>
+                        <p>
+                           <hi>How</hi> little Communion have we with him? How little Strength get we from him? How
+<pb n="14" facs="tcp:35543:18"/> little Delight in him? Thankfulness to him?</p>
+                        <p>
+                           <hi>After,</hi> Forgetting our good Resolutions, relapsing into our Old Transgessions.</p>
+                        <p>
+                           <hi>Not</hi> feeling the Comforts and Profit, pro<g ref="char:EOLhyphen"/>mised to Worthy Receivers, not growing in Grace, Resting in the bare Performance of Duty.</p>
+                        <p>
+                           <hi>Not</hi> mourning over our Unprofitableness, not searching into the Causes why we miss of God in the Ordinance.</p>
+                        <p>Fourthly, <hi>Conference Sins:</hi> Con<g ref="char:EOLhyphen"/>temning and avoiding Godly Christians So<g ref="char:EOLhyphen"/>ciety.</p>
+                        <p>
+                           <hi>Not</hi> desiring or misimproving it, in Imper<g ref="char:EOLhyphen"/>tinent, Froathy Discourses, Jangling Contro<g ref="char:EOLhyphen"/>versies, and Unfriendly Jarrings.</p>
+                        <p>
+                           <hi>Speaking</hi> of Heavenly Things without Af<g ref="char:EOLhyphen"/>fection, and with Affectation.</p>
+                        <p>Fifthly, <hi>Meditation Sins:</hi> Not sparing Time for, Froathy and Vain in, not raised and affected by it.</p>
+                        <p>
+                           <hi>Not</hi> furnishing our selves with Scripture Materials for it: Not improving Emergen<g ref="char:EOLhyphen"/>cies and Occurrences for Occasional Medita<g ref="char:EOLhyphen"/>tion.</p>
+                        <p>
+                           <hi>Not</hi> beginning and ending every Day with some Devout Thoughts and Ejaculations.</p>
+                        <p n="6">6. <hi>Self-Examination Sins:</hi> In growing Strangers to our own Hearts.</p>
+                        <p>
+                           <hi>Ʋnacquainted</hi> with our special Sins, that
+<pb n="15" facs="tcp:35543:18"/> most easily beset us; with our special Wants and Weaknesses, that need Supplies.</p>
+                        <p>
+                           <hi>Being</hi> undetermined as to our Eternal State, and content to be so.</p>
+                        <p>
+                           <hi>Ʋnwilling</hi> to bear the Burthen of a thorough Tryal and impartial Determination, loath to know the worst of our selves.</p>
+                        <p>Lastly, <hi>Uows,</hi> Unfaithful to Convicti<g ref="char:EOLhyphen"/>on and Sick-bed Vows, as well as to those before-mentioned.</p>
+                     </div>
+                     <div n="3" type="commandment">
+                        <head>Against the Third Commandment.</head>
+                        <p>By,</p>
+                        <p>
+                           <hi>Swearing</hi> Falsly, Rashly in Common Discourse, Cursing, and Wishing any Evil to another, (which we would not wish our selves) though in a Passion.</p>
+                        <p>
+                           <hi>Making</hi> Unlawful Vows, breaking Lawful Ones, Irreverent mentioning of God.</p>
+                        <p>
+                           <hi>Not</hi> acknowledging, or not being affected with, the Glorious Attributes of God.</p>
+                        <p>
+                           <hi>Not</hi> defending the Glory, Name and Truths of God, when vilify'd by Others.</p>
+                        <p>
+                           <hi>Blemishing</hi> our Profession by our Uneven Conversations.</p>
+                        <p>
+                           <hi>Oft</hi> relapsing into the same Sin again after Repentance.</p>
+                        <p>
+                           <hi>Not</hi> regarding his Merciful or Severe Pro<g ref="char:EOLhyphen"/>vidences towards us and others, not answering each Dispensation with its proper Duty.</p>
+                        <pb n="16" facs="tcp:35543:19"/>
+                        <p>
+                           <hi>Not</hi> studying the Duty of the Day, whe<g ref="char:EOLhyphen"/>ther Adverse or Prosperous: Not learning Instruction by our Afflictions. Afflicted, but not bettered.</p>
+                        <p>
+                           <hi>Not</hi> being grieved at the Dishonour of God, not reading the Scripture with due Re<g ref="char:EOLhyphen"/>verence, jesting with Holy Things.</p>
+                        <p>
+                           <hi>Speaking</hi> irreverently concerning God, ma<g ref="char:EOLhyphen"/>king mention of his Name, Titles or Attri<g ref="char:EOLhyphen"/>butes.</p>
+                        <p>
+                           <hi>In</hi> Ordinary Discourse, crying, O Lord! O God! God forgive me, God save me, and the like, without thinking or having any Awe of God, whilest speaking of him.</p>
+                        <p>
+                           <hi>Ascribing</hi> any thing to God unworthy of him.</p>
+                        <p>
+                           <hi>Professing</hi> of Religion only for a Cloak for Covetuousness, Maliciousness and Voluptuous<g ref="char:EOLhyphen"/>ness.</p>
+                        <p>
+                           <hi>Speaking</hi> slightingly of the Word of God, wresting of it unto False Doctrine.</p>
+                     </div>
+                     <div n="4" type="commandment">
+                        <head>Against the Fourth Commandment.</head>
+                        <p>In,</p>
+                        <p>
+                           <hi>Not remembering the Sabbath,</hi> so as to prevent all such Business, as may di<g ref="char:EOLhyphen"/>stract or obstruct us in the Duties of the Day. Not resting from our Works, Tra<g ref="char:EOLhyphen"/>vels, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Not</hi> resting from Sin, Recreations, Vain
+<pb n="17" facs="tcp:35543:19"/> Thoughts and Words. Spending the Day in Idleness, or Neglect of Publick and Private Duties, frequenting Taverns, Ale-houses.</p>
+                        <p>
+                           <hi>Instead</hi> of worshipping him our selves, per<g ref="char:EOLhyphen"/>secuting his People that do.</p>
+                        <p>
+                           <hi>Scoffing</hi> and Deriding at God's Worship.</p>
+                        <p>
+                           <hi>Seeking</hi> our Pleasures in the Fields, or in vain and froathy Company. Keeping an Out<g ref="char:EOLhyphen"/>ward Rest, not regarding the Work of the Soul, to be done on that Day.</p>
+                        <p>
+                           <hi>Not</hi> Praying for the Ministers Assistance and Success, in his Work, upon our own and others Hearts.</p>
+                        <p>
+                           <hi>Suffering</hi> those under our Charge to profane this Day, neglecting to edifie their Souls.</p>
+                        <p>
+                           <hi>Not</hi> contemplating the Creatures, and Pro<g ref="char:EOLhyphen"/>vidences of God on that Day, nor minding the Work of our Redemption.</p>
+                        <p>
+                           <hi>Being</hi> weary of the Sabbath, wishing it were over, and without Delight in it, not being in the Spirit on the Lord's Day.</p>
+                        <p>
+                           <hi>Not</hi> being Fervent in the Praises of God, not rising with Christ, and seeking Things above, not longing for his Everlasting Rest, and so for extraordinary Days lawfully set apart. As,</p>
+                        <p n="1">1. <hi>Extraordinary Fasts,</hi> or Days of <hi>Humiliation</hi> in Publick or Private: In ne<g ref="char:EOLhyphen"/>glecting of them, when there is special Occa<g ref="char:EOLhyphen"/>sion to observe them.</p>
+                        <p>
+                           <hi>Insensibleness</hi> of Sin, or the Danger and Judg<g ref="char:EOLhyphen"/>ments brought by Sin.</p>
+                        <pb n="18" facs="tcp:35543:20"/>
+                        <p>
+                           <hi>Resting</hi> in Bodily Abstinence and Sad Coun<g ref="char:EOLhyphen"/>tenances, without Inward Afflicting the Soul.</p>
+                        <p>
+                           <hi>Not</hi> dealing our Bread to the Hungry, not forsaking our sinful Ways.</p>
+                        <p n="2">2. <hi>Extraordinary Feasts,</hi> or Days of <hi>Thanksgiving,</hi> in mispending them in Outward and Carnal Mirth, without the Inward Spi<g ref="char:EOLhyphen"/>ritual Duties of Love, Thankfulness, Joy and Delight in God.</p>
+                        <p>
+                           <hi>Not</hi> Enlarging our Bounty to the Poor, not evidencing our Thankfulness by fruitful Con<g ref="char:EOLhyphen"/>versations.</p>
+                        <p>
+                           <hi>Against</hi> the <hi>Second</hi> Table in <hi>General.</hi>
+                        </p>
+                        <p>By</p>
+                        <p>Not loving our Neighbour with such true and unfeigned Love as our selves.</p>
+                        <p>
+                           <hi>Not</hi> dealing with others, as we desire they would deal with us; not praying for and en<g ref="char:EOLhyphen"/>deavouring their good as our own.</p>
+                        <p>
+                           <hi>Not</hi> being of a Publick Spirit.</p>
+                     </div>
+                  </div>
+                  <div type="subsection">
+                     <head>In <hi>Particular</hi>
+                     </head>
+                     <div n="5" type="commandment">
+                        <head>Against the Fifth Commandment.</head>
+                        <p>In being Imperious and Violent towards Inferiours, Stubborn and Undutiful towards Superiours.</p>
+                        <p>
+                           <hi>Ʋngrateful</hi> to Benefactors, neither record<g ref="char:EOLhyphen"/>ing, acknowledging, esteeming nor requiting 'em as we might.</p>
+                        <pb n="19" facs="tcp:35543:20"/>
+                        <p>
+                           <hi>Apt</hi> to extenuate those Gifts and Graces of any, in which they excel us: Envying their Parts, Gifts, Abilities, Happiness or Welfare. <hi>More particularly,</hi>
+                        </p>
+                        <p>
+                           <hi>Parents Sins:</hi> Not having a Ten<g ref="char:EOLhyphen"/>der Love for, or Care of their Children, es<g ref="char:EOLhyphen"/>pecially whilest young, not keeping them un<g ref="char:EOLhyphen"/>der Subjection whilst young.</p>
+                        <p>
+                           <hi>Requiring</hi> any thing of 'em contrary to the Law of God, not encouraging of 'em in well doing, not seasonably reproving 'em for evil doing.</p>
+                        <p>
+                           <hi>Not</hi> providing what is needful for 'em for the present, and laying up for 'em ac<g ref="char:EOLhyphen"/>cording to what we have for the future.</p>
+                        <p>
+                           <hi>Opposing</hi> what is really for their Good, in reference to their Callings, Marriages, <hi>&amp;c.</hi> In provoking their Children to Wrath by intemperate Speeches and excessive Correcti<g ref="char:EOLhyphen"/>ons.</p>
+                        <p>
+                           <hi>Not</hi> Educating, Instructing or Chastizing their Children carefully, not Praying for them.</p>
+                        <p>
+                           <hi>Not</hi> Providing suitable and religious Pla<g ref="char:EOLhyphen"/>ces, Callings, or Matches for them, not set<g ref="char:EOLhyphen"/>ting them good Examples.</p>
+                        <p>
+                           <hi>By</hi> a fond and groundless Preference of one before another.</p>
+                        <p>
+                           <hi>Children,</hi> not Loving, Reverencing, but despising their Parents, not submitting to
+<pb n="20" facs="tcp:35543:21"/> them, Grieving and Reproaching of 'em, Dis<g ref="char:EOLhyphen"/>covering their Infirmities.</p>
+                        <p>
+                           <hi>Being</hi> unthankful to 'em, not relievng 'em in their Wants, marrying without their Consent.</p>
+                        <p>
+                           <hi>Not</hi> hearkening to their Instruction, dis<g ref="char:EOLhyphen"/>obedient to their Lawful Commands.</p>
+                        <p>
+                           <hi>Not</hi> meek and patient under their Corre<g ref="char:EOLhyphen"/>ction, not amended by 'em.</p>
+                        <p>
+                           <hi>Cursing</hi> Father and Mother.</p>
+                        <p>
+                           <hi>Husband,</hi> not prudently governing, instructing and cherishing his Wife, being captious and froward towards her, doing what may justly grieve her.</p>
+                        <p>
+                           <hi>Not</hi> praying with, loving of, delighting in, and providing for her.</p>
+                        <p>
+                           <hi>Not</hi> honouring his Wife, Unfaithful to Marriage-Covenants.</p>
+                        <p>
+                           <hi>Not</hi> caring to please her in Things lawful and fit, not counselling, admonishing, and every way helping of her in the Matters of her Temporal and Eternal Welfare.</p>
+                        <p>
+                           <hi>Wife,</hi> being irreverent, undutiful, un<g ref="char:EOLhyphen"/>quiet, unhelpful to, or a hinderer of her Husbands Good and Comfort.</p>
+                        <p>
+                           <hi>Not</hi> studying to please him, not subject to him, <hi>Eph.</hi> 5. 24.</p>
+                        <p>
+                           <hi>Not</hi> loving her Husband above all others, unfaithful to him in reference to the Bed, Estate, or any Secrets intrusted to her.</p>
+                        <p>
+                           <hi>Lavishly</hi> spending his Estate in Apparel,
+<pb n="21" facs="tcp:35543:21"/> or any other way, above her Degree.</p>
+                        <p>
+                           <hi>Imperiousness</hi> over, having unreasonable Surmises and Suspicions of her Husband.</p>
+                        <p>
+                           <hi>Masters,</hi> entertaining wicked Servants, neither careful in directing, governing, re<g ref="char:EOLhyphen"/>warding nor punishing them.</p>
+                        <p>
+                           <hi>Ʋsing</hi> inordinate and passionate Threat<g ref="char:EOLhyphen"/>nings.</p>
+                        <p>
+                           <hi>Not</hi> minding their Souls, not allowing them time for Holy Duties, not caring for them when sick.</p>
+                        <p>
+                           <hi>Not</hi> allowing them sufficient and conveni<g ref="char:EOLhyphen"/>ent Food, detaining their Wages.</p>
+                        <p>
+                           <hi>Not</hi> reproving and correcting them for sin, requiring them to do any thing that is sinful, as telling Lies for them, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Servants,</hi> disobedient, slothful, un<g ref="char:EOLhyphen"/>faithful, answering again, murmuring, care<g ref="char:EOLhyphen"/>less.</p>
+                        <p>
+                           <hi>Not</hi> doing all as unto Christ.</p>
+                        <p>
+                           <hi>Serving</hi> with Eye Service, as Men pleasers.</p>
+                        <p>
+                           <hi>Not</hi> concerned for their Master's Benefit.</p>
+                        <p>
+                           <hi>Not</hi> honouring their Masters, not meek <gap reason="illegible: in gutter" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> nd patient under Reproof, reviling and re<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> roaching of 'em, defrauding of 'em, receiv<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> g no Instruction from 'em.</p>
+                        <p>
+                           <hi>Superiors,</hi> in growing proud, disdain<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> l, oppressive, not doing so much Good as <gap reason="illegible: in gutter" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> heir Abilities require; abusing their Gifts <gap reason="illegible: in gutter" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> the hurt of others.</p>
+                        <p>
+                           <hi>Inferiors,</hi> in hating or flattering those
+<pb n="22" facs="tcp:35543:22"/> above them, envying of 'em, following their ill Examples.</p>
+                        <p>
+                           <hi>Teachers,</hi> in neglecting Opportunities of Instructing and Reforming others by Coun<g ref="char:EOLhyphen"/>sel or Example. (Omitting Ministers Sins)</p>
+                        <p>
+                           <hi>People,</hi> Not having an high Estimation of, and endeared Love for their Ministers, for their Works sake; not diligent in Atten<g ref="char:EOLhyphen"/>dance upon the Word preach'd, and other Ordinances.</p>
+                        <p>
+                           <hi>Not</hi> communicating to them of their Tem<g ref="char:EOLhyphen"/>porals, 1 <hi>Cor.</hi> 9. 14. <hi>Gal.</hi> 6. 6. not praying for 'em.</p>
+                        <p>
+                           <hi>Ʋnteachable,</hi> disobeying them that have the Oversight of 'em, grieving them, discou<g ref="char:EOLhyphen"/>raging them, not profiting by 'em.</p>
+                        <p>
+                           <hi>Magistrates,</hi> Not promoting the In<g ref="char:EOLhyphen"/>terest of Religion.</p>
+                        <p>
+                           <hi>Not</hi> promoting Reformation-Work, nor encouraging them that do; not Encouraging them that do well.</p>
+                        <p>
+                           <hi>Seeking</hi> their own, rather than the Common Interest.</p>
+                        <p>
+                           <hi>Oppressing</hi> the People, making unjust Laws, not Executing just Ones; suffering Injustice, Oppression, Murther, Irreligiousness, Atheism and Profaneness, to go unpunished.</p>
+                        <p>
+                           <hi>Bribery,</hi> Rigor, Lenity, Covetuousness, re<g ref="char:EOLhyphen"/>specting Persons, not protecting the Wor<g ref="char:EOLhyphen"/>shippers of God and the Vertuous.</p>
+                        <p>
+                           <hi>Subjects</hi> speaking Evil of Rulers, rai<g ref="char:EOLhyphen"/>sing
+<pb n="23" facs="tcp:35543:22"/> ill Reports of them, misconstruing their Actions; Disobedience to their just Commands.</p>
+                        <p>
+                           <hi>Denying</hi> just Tribute, Rebellion, Sedition, not praying for, not Esteeming and Honou<g ref="char:EOLhyphen"/>ring of them.</p>
+                     </div>
+                     <div n="6" type="commandment">
+                        <head>Against the Sixth Commandment.</head>
+                        <p>Either,</p>
+                        <p n="1">1. <hi>Against the Body:</hi> Murther, Causeless Fighting, Violence, aptness to enter<g ref="char:EOLhyphen"/>tain great Prejudices and Mis-conceits against others.</p>
+                        <p>
+                           <hi>Rash</hi> immoderate and lasting Anger, In<g ref="char:EOLhyphen"/>jurious and Revengeful Thoughts, secret Grudges, Hatred, Implacableness.</p>
+                        <p>
+                           <hi>Not</hi> forgiving and forgetting, biting Jests, in<g ref="char:EOLhyphen"/>solent, reviling, scoffing and provoking Words or Actions, making Discord and Strife.</p>
+                        <p>
+                           <hi>Senseless</hi> and Hard-Hearted towards Others in their Miseries and Losses: Where we are not immediately concerned, deriding Men in Misery, rejoycing at their Misery.</p>
+                        <p>
+                           <hi>Reproaching</hi> the Dead, destroying our own Healths by Intemperance in eating, immode<g ref="char:EOLhyphen"/>rate Passions, excessive Drinking, thereby in<g ref="char:EOLhyphen"/>disposing of our selves for the Duties incum<g ref="char:EOLhyphen"/>bent on us.</p>
+                        <p n="2">2. <hi>Against the Soul:</hi> Wounding, and Murthering the Souls of Others by mis<g ref="char:EOLhyphen"/>guiding, grieving, provoking and counselling
+<pb n="24" facs="tcp:35543:23"/> of 'em to Sin, defending them in it, conni<g ref="char:EOLhyphen"/>ving at, not reproving them for Sin.</p>
+                        <p>
+                           <hi>Not</hi> being an Example to them, not In<g ref="char:EOLhyphen"/>structing the ignorant we converse with:</p>
+                        <p>
+                           <hi>Not</hi> comforting the weak, not admonish<g ref="char:EOLhyphen"/>ing, exhorting, encouraging others unto Well<g ref="char:EOLhyphen"/>doing.</p>
+                        <p>
+                           <hi>Careless</hi> of our own Souls; forgetting to prepare for another World, take up with the Enjoyments of this.</p>
+                        <p>
+                           <hi>Wishing</hi> for Death through Impatience, lay<g ref="char:EOLhyphen"/>ing Violent Hands on our selves.</p>
+                     </div>
+                     <div n="7" type="commandment">
+                        <head>Against the Seventh Commandment</head>
+                        <p>By</p>
+                        <p>
+                           <hi>All Acts of Uncleanness,</hi> either by our selves, or with others; as Buggery, So<g ref="char:EOLhyphen"/>domy, Rape, Incest, Poligamy, Unnatural Filthiness of one Woman with another, <hi>Rom.</hi> 1. 26. Self-pollution, <hi>Gen.</hi> 38. 9.</p>
+                        <p>
+                           <hi>Putting</hi> away a Wife, not for Fornication Marrying one unjustly put away. Marrying ones self after he hath unjustly put away his Wife.</p>
+                        <p>
+                           <hi>Fornication.</hi> Adultery. Heart-adultery. Minds full of Unchast Thoughts and Desires. Che<g ref="char:EOLhyphen"/>rishing in our selves any Lustful Desires, Passi<g ref="char:EOLhyphen"/>ons, Looks, Gestures, Postures and Glances, <hi>Mat.</hi> 5. 28.</p>
+                        <p>
+                           <hi>Delighting</hi> our Thoughts in the Fancy, Spe<g ref="char:EOLhyphen"/>culation,
+<pb n="25" facs="tcp:35543:23"/> or inward Contemplation of Lusts, sleeping or waking, though without Purpose to Commit 'em.</p>
+                        <p>
+                           <hi>Not</hi> Careful to quench our Fleshly Concu<g ref="char:EOLhyphen"/>piscence, by Vigilency over our own Hearts and Ways.</p>
+                        <p>
+                           <hi>Not</hi> Avoiding Evil Company, and such other Occasions as may inflame us. Fre<g ref="char:EOLhyphen"/>quenting Stage-Plays, and such Theatrical Shews where Sin and Vanity are Encoura<g ref="char:EOLhyphen"/>ged.</p>
+                        <p>
+                           <hi>Not</hi> Studying to be more Moderate in our Delights, Modest in our Carriages, avoid<g ref="char:EOLhyphen"/>ing Lascivious Dancing or Pictures, wanton Dalliances and immodest Amours.</p>
+                        <p>
+                           <hi>Not</hi> being Temperate in our Dyet, Dili<g ref="char:EOLhyphen"/>gent in our Callings.</p>
+                        <p>
+                           <hi>Our Eyes</hi> being full of Adultery.</p>
+                        <p>
+                           <hi>Our Ears</hi> willingly open to Filthy and Unclean Communications.</p>
+                        <p>
+                           <hi>Our Tongues</hi> given to Rotten and Unsa<g ref="char:EOLhyphen"/>voury Speeches, and We not Careful to Avoid all Suspitions and Appearances of Sin.</p>
+                     </div>
+                     <div n="8" type="commandment">
+                        <head>Against the Eighth Commandment.</head>
+                        <p>By</p>
+                        <p>The Gross <hi>Acts of Theft,</hi> Oppressi<g ref="char:EOLhyphen"/>on, Simony, Deceit, Oppressive Usury from the Poor and Helpless, Sacriledge, Bribery,
+<pb n="26" facs="tcp:35543:24"/> Prodigality, Stealing Children, receiving Sto<g ref="char:EOLhyphen"/>len Goods, Detaining what is stray'd.</p>
+                        <p>
+                           <hi>Being</hi> Discontented with our Estates and Conditions, greedy of Gain, full of restless and insatiable Desires after these Earthy Riches, Profits and Vanities.</p>
+                        <p>
+                           <hi>Negligent</hi> in our Callings, idle, slothful and sluggish, or else hasting to be Rich by un<g ref="char:EOLhyphen"/>lawful Means, over-reaching and fraudulent Dealing.</p>
+                        <p>
+                           <hi>False</hi> to Words or Promises, through Dis<g ref="char:EOLhyphen"/>simulation dealing falsly with a Friend to be<g ref="char:EOLhyphen"/>tray him.</p>
+                        <p>
+                           <hi>With-holding</hi> what is any way due to any Body, rigorously recovering our own.</p>
+                        <p>
+                           <hi>Inordinate</hi> in the Use of these things which we enjoy, too sparing and nigardly to good Purposes, to Objects of Charity.</p>
+                        <p>
+                           <hi>Too</hi> lavish in sinful, scandalous and unne<g ref="char:EOLhyphen"/>cessary Expences, as in Recreations, Apparel, Pomp, Company-keeping.</p>
+                        <p>
+                           <hi>Not</hi> honouring God with our Substance.</p>
+                        <p>
+                           <hi>Covetuousness,</hi> Love of Money the Root of all Evil, seeking great Things for our selves, envying our Neighbours Prosperity.</p>
+                        <p>
+                           <hi>Not</hi> looking at the Blessing of God on our Diligence, but trusting to our own Wis<g ref="char:EOLhyphen"/>dom and Industry.</p>
+                     </div>
+                     <div n="9" type="commandment">
+                        <pb n="27" facs="tcp:35543:24"/>
+                        <head>Against the Ninth Commandment.</head>
+                        <p>In,</p>
+                        <p>
+                           <hi>Lying,</hi> Bearing false Witness, conceal<g ref="char:EOLhyphen"/>ing the Truth, when it would do good to publish it, being silent in Defence of others.</p>
+                        <p>
+                           <hi>Reviling</hi> and slandering others, spreading the Faults of others, when it no ways con<g ref="char:EOLhyphen"/>cerns us, or is not like to benefit them or others.</p>
+                        <p>
+                           <hi>Entertaining</hi> and Encouraging Back-biters, speaking the Truth in Malice.</p>
+                        <p>
+                           <hi>Being</hi> Tale-bearers, Scoffers, apt to listen to any Report tending to the Defamation of others, rejoycing at bad Reports of Others.</p>
+                        <p>
+                           <hi>Moddling</hi> in others Matters not concerning us, credulous to flying Reports that are bad.</p>
+                        <p>
+                           <hi>Ʋncharitably</hi> suspicious, interpreting good things ill, and doubtful things in the worst sense.</p>
+                        <p>
+                           <hi>Not</hi> admonishing our Friends and Neigh<g ref="char:EOLhyphen"/>bours of, or rebuking them for what ble<g ref="char:EOLhyphen"/>mishes their Good Name or Credit, accord<g ref="char:EOLhyphen"/>ing to our Callings and Opportunities.</p>
+                        <p>
+                           <hi>Neglecting</hi> our own Credit, not minding to be so good as we seem, not seeming so good as we should.</p>
+                        <p>
+                           <hi>Not</hi> avoiding the Appearance of Evil, which looks like Sin.</p>
+                        <pb n="28" facs="tcp:35543:25"/>
+                        <p>
+                           <hi>Depressing</hi> the Reputation of others to ad<g ref="char:EOLhyphen"/>vance our own, more forward to mention the Infirmities than the Vertues of our Neigh<g ref="char:EOLhyphen"/>bour, flattering, and over-magnifying their good Deeds.</p>
+                     </div>
+                     <div n="10" type="commandment">
+                        <head>Against the Tenth Commandment.</head>
+                        <p>
+                           <hi>Being discontented</hi> with our own Condition, murmuring and repining, vexing and fretting, quarrelling and complaining of our Condition.</p>
+                        <p>
+                           <hi>Envying</hi> and grieving at our Neighbour's Good, Gifts, Strength, Beauty, Wealth, Pros<g ref="char:EOLhyphen"/>perity, Esteem, Honour, <hi>&amp;c.</hi>
+                        </p>
+                        <p>
+                           <hi>Want</hi> of a God-like Charity towards our Enemies, Neighbours, and what they have.</p>
+                        <p>
+                           <hi>Secretly</hi> and inordinately desiring what is theirs, evil Desires towards them, mindful of evil Fancies, rising from our corrupt Na<g ref="char:EOLhyphen"/>tures.</p>
+                        <p>
+                           <hi>Apt</hi> to entertain sinful Suggestions from Satan.</p>
+                        <p>
+                           <hi>Keeping</hi> close, and rolling in our Thoughts with Delight, any Evil Imaginations, though our Minds (perhaps) do not assent to act them.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <pb n="29" facs="tcp:35543:25"/>
+                  <head>2. Against the Gospel:</head>
+                  <p>As,</p>
+                  <p n="1">1. <hi>Unbelief,</hi> Not labouring after Ac<g ref="char:EOLhyphen"/>quaintance with God, the Duties, Promises and Priviledges of the Gospel, weak in assent<g ref="char:EOLhyphen"/>ing to the Truths there revealed.</p>
+                  <p>
+                     <hi>Wavering</hi> in <hi>Fundamentals,</hi> not believ<g ref="char:EOLhyphen"/>ing that God is <hi>One</hi> in <hi>Three,</hi> and <hi>Three</hi> in <hi>One,</hi> that the Father, the Son, and the Holy Ghost, are this <hi>One</hi> God, 1 <hi>Iohn</hi> 5. 7.</p>
+                  <p>
+                     <hi>That</hi> as the Father hath Life in himself, so he hath given to the Son to have Life in himself, <hi>Iohn</hi> 5. 26.</p>
+                  <p>
+                     <hi>Not</hi> believing Jesus of <hi>Nazareth</hi> to be the only begotten of the Father, that he was sent into the World by the Father, that whoso<g ref="char:EOLhyphen"/>ever believeth on him should not perish, but have Everlasting Life, <hi>Acts</hi> 10. 38. <hi>Iohn</hi> 3. 16, 17, 18.</p>
+                  <p>
+                     <hi>That</hi> Christ is the Author of Eternal Sal<g ref="char:EOLhyphen"/>vation to them that obey him, <hi>Heb.</hi> 5. 9.</p>
+                  <p>
+                     <hi>Not</hi> believing that there is a Heaven and a Hell, Eternal Rewards and Punishments af<g ref="char:EOLhyphen"/>ter this Life, according to the Good or Evil Lives of Men, 2 <hi>Thes.</hi> 1. 5, 6, 7, 8, 9, 10.</p>
+                  <p>
+                     <hi>Not</hi> believing the Resurrection of the Dead, 1 <hi>Cor.</hi> 15. 42, 43, 44.</p>
+                  <p>
+                     <hi>Not</hi> believing that God will judge the World, on the Day he hath appointed, in
+<pb n="30" facs="tcp:35543:26"/> Righteousness, by that Man whom he hath ordained, <hi>Acts</hi> 17. 21.</p>
+                  <p>
+                     <hi>Not</hi> admiring, and valuing the Love of God, in the Redemption of Souls by Christ, preferring drossy Vanities before him and his Love.</p>
+                  <p>
+                     <hi>Not</hi> living by Faith in any Condition, living by Sense, apt to trust God no farther than our Reason leads us, without Revelation.</p>
+                  <p>
+                     <hi>Drooping</hi> in Adversity, not content to want what God sees Good to with-hold.</p>
+                  <p>
+                     <hi>Apt</hi> to rely on our own Righteousness for Acceptance with the Father, loth to come wholly out of our selves, to be saved wholly by Christ.</p>
+                  <p>
+                     <hi>Not</hi> owning him in his Person, Offices or Work.</p>
+                  <p>
+                     <hi>Not</hi> willing to accept of him as our Lord, to be ruled and disposed of by him, to ac<g ref="char:EOLhyphen"/>cept of him as our Mediator and Saviour.</p>
+                  <p>
+                     <hi>Not</hi> desirous to acquaint our selves with him, preferring other Knowledge before the Excellent Knowledge of Christ Jesus the Lord.</p>
+                  <p>
+                     <hi>Not</hi> believing our lost Condition without him, and ignorant of the New Covenant, and the Way of Salvation by a Mediator.</p>
+                  <p>
+                     <hi>Treading</hi> under foot the Son of God, pro<g ref="char:EOLhyphen"/>faning the Blood of the Covenant.</p>
+                  <p>
+                     <hi>Doing</hi> what we can to make Christ's Pas<g ref="char:EOLhyphen"/>sion of none Effect, and not glorying alone in Christ and him crucified.</p>
+                  <p>
+                     <hi>Not</hi> thirsting after, relying on, the Lord Jesus Christ.</p>
+                  <pb n="31" facs="tcp:35543:26"/>
+                  <p>
+                     <hi>Resisting,</hi> grieving, rebelling against, and quenching his awakening, quickening, com<g ref="char:EOLhyphen"/>forting Spirit of Grace.</p>
+                  <p n="2">2. <hi>Impenitency,</hi> Pretending we have no sin, not seeking after our sins; justifying, excusing and apologizing for, extenuating, lessening and hiding of, some pleasant and delightful Sins.</p>
+                  <p>
+                     <hi>Not affected</hi> with Grief and Heart-breakings for sins.</p>
+                  <p>
+                     <hi>Being</hi> more affrighted at the Evil coming by Sin, than at Sin, as Sin; as a daring Con<g ref="char:EOLhyphen"/>tradiction to the pure Will of God, an Un<g ref="char:EOLhyphen"/>kindness against an Obliging God, and a Departing from our God and Happiness.</p>
+                  <p>
+                     <hi>Loth</hi> to resolve against our sweet Sins, pro<g ref="char:EOLhyphen"/>crastinating and putting off our Purposes a<g ref="char:EOLhyphen"/>gainst sin, purposing against some, and reserv<g ref="char:EOLhyphen"/>ing others.</p>
+                  <p>
+                     <hi>Not</hi> striving to make good our Resolutions.</p>
+                  <p>
+                     <hi>Not</hi> improving all Advantages for the sub<g ref="char:EOLhyphen"/>duing and avoiding of Sins, and the occcasions of 'em.</p>
+                  <p>
+                     <hi>Making</hi> a custom of sinning, taking delight, hardning the Heart to, and glorying in sin, fretting because cross'd in it.</p>
+                  <p>
+                     <hi>Backward</hi> to comply with the Calls and Invi<g ref="char:EOLhyphen"/>tations of the Gospel, delaying to come unto, and shutting the Heart against Christ Jesus our Lord.</p>
+                  <p>
+                     <hi>Despairing</hi> of God's Mercy, or thinking he cannot, or will not pardon us, upon sincere Re<g ref="char:EOLhyphen"/>pentance, 1 <hi>Iohn</hi> 1. 7. <hi>Heb.</hi> 7. 25.</p>
+                  <pb n="32" facs="tcp:35543:27"/>
+                  <p>
+                     <hi>Not</hi> living wholly to, and upon Christ, not lov<g ref="char:EOLhyphen"/>ing him with a sincere and transcendent Love.</p>
+                  <p>
+                     <hi>Not</hi> doing all our Works in his Name, and offering all our Gifts and Duties to God through him.</p>
+                  <p>
+                     <hi>Not</hi> having our Hearts and Affections in Heaven, where he is.</p>
+                  <p>
+                     <hi>Not</hi> submitting to his Authority as our Su<g ref="char:EOLhyphen"/>pream Law-giver, not receiving the Law at his Mouth, not making the Gospel the Rule of our Lives and Actions.</p>
+                  <p>
+                     <hi>Ʋnthankfulness</hi> for Jesus Christ, (that tran<g ref="char:EOLhyphen"/>scendent Gift of God) and his Gospel, for the Messengers, Priviledges and Liberty of it.</p>
+                  <p>
+                     <hi>Barrenness</hi> under these Means of Salvation, receiving much, and returning little.</p>
+                  <p>
+                     <hi>Not</hi> loving one another, as Christ loved us, loving our own Image more than Christ's.</p>
+                  <p>
+                     <hi>Confining</hi> Religion to a Party, condemning all that are not of our Way and Opinion.</p>
+                  <p>
+                     <hi>Neglect</hi> of Gospel-Ordinances, not having a due Value for 'em, not preparing for, profiting by, nor living suitable to them.</p>
+                  <p>
+                     <hi>Turning</hi> the Grace of God into Lascivious<g ref="char:EOLhyphen"/>ness, either by entertaining corrupt Notions of the Nature and End of it, or not being duely im<g ref="char:EOLhyphen"/>prest by the Principles and Holy Doctrines of it.</p>
+                  <p>These are many of the kinds of Sin in Gene<g ref="char:EOLhyphen"/>ral, but as to the particular multiply'd Acts of all, or any of these kinds, who knows how oft he offends.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
